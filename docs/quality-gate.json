@@ -1,0 +1,71 @@
+{
+  "ok": true,
+  "atlas": "bubbles/spritesheet.png",
+  "encoded_bytes": 2826546,
+  "sha256": "8b2c7941a5acefb14127d2aed4f0e35f2f823b62dd126d34b939124a03d8b86b",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      196,
+      173,
+      154,
+      168,
+      202
+    ],
+    "airborne_lift_pixels": 48,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      91.5,
+      90.5,
+      91.5,
+      91.5,
+      93.5,
+      97.5,
+      99.0,
+      102.0,
+      91.0,
+      86.0,
+      85.5,
+      85.5,
+      88.0,
+      91.0,
+      92.5,
+      91.5
+    ],
+    "look_widths": [
+      131,
+      135,
+      137,
+      137,
+      141,
+      141,
+      140,
+      144,
+      134,
+      126,
+      125,
+      123,
+      110,
+      120,
+      121,
+      119
+    ],
+    "maximum_center_drift_pixels": 10.0,
+    "maximum_width_ratio": 1.309090909090909
+  },
+  "errors": [],
+  "warnings": [
+    "135->157.5 center shift is high (11.4px)",
+    "157.5->180 diff is a local outlier (7943 pixels vs neighbor average 3052)",
+    "157.5->180 center shift is high (19.4px)",
+    "157.5->180 sprite area ratio is high (1.39)",
+    "247.5->270 diff is a local outlier (5190 pixels vs neighbor average 1190)",
+    "247.5->270 sprite area ratio is high (1.20)",
+    "337.5->000 diff is a local outlier (5742 pixels vs neighbor average 2163)",
+    "337.5->000 center shift is high (13.5px)",
+    "337.5->000 sprite area ratio is high (1.36)"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "source": "bubbles/spritesheet.png",
+  "rowDurationMs": 110,
+  "allStatesDurationMs": 90,
+  "lookDurationMs": 100,
+  "allStatesFrames": 57,
+  "lookFrames": 16,
+  "idleJumpIdleFrames": 7
+}
